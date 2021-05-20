@@ -284,6 +284,12 @@ h5 {
     background-color: #f19b3f;
     margin-right: 10px;
 }
+
+.another-skill {
+    display: flex;
+    align-items: center;
+}
+
 /* keyframe */
 @keyframes web {
     from { 
